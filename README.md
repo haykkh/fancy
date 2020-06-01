@@ -24,7 +24,7 @@ yarn
 [fancy-master.zip](https://github.com/haykkh/fancy/archive/master.zip)
 
 ```sh
-cd fancy
+cd fancy-master
 
 yarn
 ```
