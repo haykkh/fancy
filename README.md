@@ -5,6 +5,8 @@
 
 ![language](https://img.shields.io/badge/HTML-blue.svg?style=flat-square)![language](https://img.shields.io/badge/CSS-red.svg?style=flat-square)
 
+Migrated from [haykkh.github.io/](https://github.com/haykkh/haykkh.github.io)
+
 ![Header](header.png)
 
 ## 📦 Installation
