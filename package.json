@@ -1,0 +1,22 @@
+{
+  "name": "fancy",
+  "version": "1.0.0",
+  "description": "old 'fancy' version of hayk.earth (no longer plays well with most browsers)",
+  "main": "docs/index.html",
+  "repository": "git@github.com:haykkh/fancy.git",
+  "author": "Hayk Khachatryan <hi@hayk.io>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/html/index.html",
+    "build": "parcel build src/html/index.html --dist-dir docs"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-alpha.3.2",
+    "sass": "^1.26.7"
+  },
+  "targets": {
+    "main": {
+      "distDir": "./docs"
+    }
+  }
+}
