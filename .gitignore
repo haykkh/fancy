@@ -11,3 +11,7 @@ node_modules
 .history/
 
 *psd
+
+# parcel
+.parcel-cache
+dist
