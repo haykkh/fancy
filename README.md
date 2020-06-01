@@ -2,7 +2,7 @@
 
 ## About
 
-Old 'fancy' version of hayk.earth (no longer plays well with most browsers)
+Old 'fancy' version of [hayk.earth/](https://hayk.earth/) (no longer plays well with most browsers)
 
 ## Getting Started
 
