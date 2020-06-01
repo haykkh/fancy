@@ -13,7 +13,7 @@ git clone https://github.com/haykkh/fancy.git
 
 cd fancy
 
-yarn install
+yarn
 ```
 
 ## Usage
